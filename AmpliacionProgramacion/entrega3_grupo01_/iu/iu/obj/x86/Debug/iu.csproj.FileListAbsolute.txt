@@ -1,0 +1,104 @@
+d:\usuario\mis documentos\visual studio 2010\Projects\iu\iu\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\usuario\mis documentos\visual studio 2010\Projects\iu\iu\obj\x86\Debug\iu.Properties.Resources.resources
+d:\usuario\mis documentos\visual studio 2010\Projects\iu\iu\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\usuario\mis documentos\visual studio 2010\Projects\iu\iu\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\usuario\mis documentos\visual studio 2010\Projects\iu\iu\bin\Debug\iu.exe
+d:\usuario\mis documentos\visual studio 2010\Projects\iu\iu\bin\Debug\iu.pdb
+d:\usuario\mis documentos\visual studio 2010\Projects\iu\iu\obj\x86\Debug\iu.exe
+d:\usuario\mis documentos\visual studio 2010\Projects\iu\iu\obj\x86\Debug\iu.pdb
+d:\usuario\mis documentos\visual studio 2010\Projects\iu\iu\obj\x86\Debug\iu.Calculadora.resources
+D:\datos-paco-uam\clases\Dropbox\amprog\practicas\practica2\iu\iu\obj\x86\Debug\iu.exe
+D:\datos-paco-uam\clases\Dropbox\amprog\practicas\practica2\iu\iu\obj\x86\Debug\iu.pdb
+D:\datos-paco-uam\clases\Dropbox\amprog\practicas\practica2\iu\iu\bin\Debug\iu.exe
+D:\datos-paco-uam\clases\Dropbox\amprog\practicas\practica2\iu\iu\bin\Debug\iu.pdb
+D:\datos-paco-uam\clases\Dropbox\amprog\practicas\practica2\iu\iu\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\datos-paco-uam\clases\Dropbox\amprog\practicas\practica2\iu\iu\obj\x86\Debug\iu.Calculadora.resources
+D:\datos-paco-uam\clases\Dropbox\amprog\practicas\practica2\iu\iu\obj\x86\Debug\iu.Properties.Resources.resources
+D:\datos-paco-uam\clases\Dropbox\amprog\practicas\practica2\iu\iu\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\datos-paco-uam\clases\Dropbox\amprog\practicas\practica2\iu\iu\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\datos-paco-uam\clases\Dropbox\amprog\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.exe
+D:\datos-paco-uam\clases\Dropbox\amprog\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.pdb
+D:\datos-paco-uam\clases\Dropbox\amprog\teoria\trasparencias-año-proximo\12-wf\iu\iu\bin\Debug\iu.exe
+D:\datos-paco-uam\clases\Dropbox\amprog\teoria\trasparencias-año-proximo\12-wf\iu\iu\bin\Debug\iu.pdb
+D:\datos-paco-uam\clases\Dropbox\amprog\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\datos-paco-uam\clases\Dropbox\amprog\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.Calculadora.resources
+D:\datos-paco-uam\clases\Dropbox\amprog\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.Properties.Resources.resources
+D:\datos-paco-uam\clases\Dropbox\amprog\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\datos-paco-uam\clases\Dropbox\amprog\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Dropbox\ampprog\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.exe
+F:\Dropbox\ampprog\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.pdb
+F:\Dropbox\ampprog\teoria\trasparencias-año-proximo\12-wf\iu\iu\bin\Debug\iu.exe
+F:\Dropbox\ampprog\teoria\trasparencias-año-proximo\12-wf\iu\iu\bin\Debug\iu.pdb
+F:\Dropbox\ampprog\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.Calculadora.resources
+F:\Dropbox\ampprog\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.Properties.Resources.resources
+F:\Dropbox\ampprog\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.csproj.GenerateResource.Cache
+F:\Dropbox\ampprog\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.csprojResolveAssemblyReference.cache
+F:\Dropbox\amprog-15-16\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.exe
+F:\Dropbox\amprog-15-16\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.pdb
+F:\Dropbox\amprog-15-16\teoria\trasparencias-año-proximo\12-wf\iu\iu\bin\Debug\iu.exe
+F:\Dropbox\amprog-15-16\teoria\trasparencias-año-proximo\12-wf\iu\iu\bin\Debug\iu.pdb
+F:\Dropbox\amprog-15-16\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.csprojResolveAssemblyReference.cache
+F:\Dropbox\amprog-15-16\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.Calculadora.resources
+F:\Dropbox\amprog-15-16\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.Properties.Resources.resources
+F:\Dropbox\amprog-15-16\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.csproj.GenerateResource.Cache
+F:\Dropbox\amprog-16-17\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.exe
+F:\Dropbox\amprog-16-17\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.pdb
+F:\Dropbox\amprog-16-17\teoria\trasparencias-año-proximo\12-wf\iu\iu\bin\Debug\iu.exe.config
+F:\Dropbox\amprog-16-17\teoria\trasparencias-año-proximo\12-wf\iu\iu\bin\Debug\iu.exe
+F:\Dropbox\amprog-16-17\teoria\trasparencias-año-proximo\12-wf\iu\iu\bin\Debug\iu.pdb
+F:\Dropbox\amprog-16-17\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.csprojResolveAssemblyReference.cache
+F:\Dropbox\amprog-16-17\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.Calculadora.resources
+F:\Dropbox\amprog-16-17\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.Properties.Resources.resources
+F:\Dropbox\amprog-16-17\teoria\trasparencias-año-proximo\12-wf\iu\iu\obj\x86\Debug\iu.csproj.GenerateResource.Cache
+F:\Dropbox\amprog-16-17\teoria\trasparencias-ano-proximo\12-wf\iu\iu\bin\Debug\iu.exe.config
+F:\Dropbox\amprog-16-17\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.exe
+F:\Dropbox\amprog-16-17\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.pdb
+F:\Dropbox\amprog-16-17\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.csprojResolveAssemblyReference.cache
+F:\Dropbox\amprog-16-17\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.Calculadora.resources
+F:\Dropbox\amprog-16-17\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.Properties.Resources.resources
+F:\Dropbox\amprog-16-17\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.csproj.GenerateResource.Cache
+F:\Dropbox\amprog-16-17\teoria\trasparencias-ano-proximo\12-wf\iu\iu\bin\Debug\iu.exe
+F:\Dropbox\amprog-16-17\teoria\trasparencias-ano-proximo\12-wf\iu\iu\bin\Debug\iu.pdb
+F:\Dropbox\amprog-17-18\teoria\trasparencias-ano-proximo\12-wf\iu\iu\bin\Debug\iu.exe.config
+F:\Dropbox\amprog-17-18\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.exe
+F:\Dropbox\amprog-17-18\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.pdb
+D:\nube\Dropbox\amprog-18-19\teoria\trasparencias-ano-proximo\12-wf\iu\iu\bin\Debug\iu.exe.config
+D:\nube\Dropbox\amprog-18-19\teoria\trasparencias-ano-proximo\12-wf\iu\iu\bin\Debug\iu.exe
+D:\nube\Dropbox\amprog-18-19\teoria\trasparencias-ano-proximo\12-wf\iu\iu\bin\Debug\iu.pdb
+D:\nube\Dropbox\amprog-18-19\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.csprojAssemblyReference.cache
+D:\nube\Dropbox\amprog-18-19\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.Calculadora.resources
+D:\nube\Dropbox\amprog-18-19\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.Properties.Resources.resources
+D:\nube\Dropbox\amprog-18-19\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.csproj.GenerateResource.cache
+D:\nube\Dropbox\amprog-18-19\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.csproj.CoreCompileInputs.cache
+D:\nube\Dropbox\amprog-18-19\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.exe
+D:\nube\Dropbox\amprog-18-19\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.pdb
+D:\nube\Dropbox\amprog-19-20\teoria\trasparencias-ano-proximo\12-wf\iu\iu\bin\Debug\iu.exe.config
+D:\nube\Dropbox\amprog-19-20\teoria\trasparencias-ano-proximo\12-wf\iu\iu\bin\Debug\iu.exe
+D:\nube\Dropbox\amprog-19-20\teoria\trasparencias-ano-proximo\12-wf\iu\iu\bin\Debug\iu.pdb
+D:\nube\Dropbox\amprog-19-20\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.csprojAssemblyReference.cache
+D:\nube\Dropbox\amprog-19-20\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.Calculadora.resources
+D:\nube\Dropbox\amprog-19-20\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.Properties.Resources.resources
+D:\nube\Dropbox\amprog-19-20\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.csproj.GenerateResource.cache
+D:\nube\Dropbox\amprog-19-20\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.csproj.CoreCompileInputs.cache
+D:\nube\Dropbox\amprog-19-20\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.exe
+D:\nube\Dropbox\amprog-19-20\teoria\trasparencias-ano-proximo\12-wf\iu\iu\obj\x86\Debug\iu.pdb
+C:\Users\mele9\OneDrive\Escritorio\Curso_20-21\Primer_Cuatrimestre\APROG\12-wf\12-wf\iu\iu\bin\Debug\iu.exe.config
+C:\Users\mele9\OneDrive\Escritorio\Curso_20-21\Primer_Cuatrimestre\APROG\12-wf\12-wf\iu\iu\bin\Debug\iu.exe
+C:\Users\mele9\OneDrive\Escritorio\Curso_20-21\Primer_Cuatrimestre\APROG\12-wf\12-wf\iu\iu\bin\Debug\iu.pdb
+C:\Users\mele9\OneDrive\Escritorio\Curso_20-21\Primer_Cuatrimestre\APROG\12-wf\12-wf\iu\iu\obj\x86\Debug\iu.csprojAssemblyReference.cache
+C:\Users\mele9\OneDrive\Escritorio\Curso_20-21\Primer_Cuatrimestre\APROG\12-wf\12-wf\iu\iu\obj\x86\Debug\iu.Calculadora.resources
+C:\Users\mele9\OneDrive\Escritorio\Curso_20-21\Primer_Cuatrimestre\APROG\12-wf\12-wf\iu\iu\obj\x86\Debug\iu.Properties.Resources.resources
+C:\Users\mele9\OneDrive\Escritorio\Curso_20-21\Primer_Cuatrimestre\APROG\12-wf\12-wf\iu\iu\obj\x86\Debug\iu.csproj.GenerateResource.cache
+C:\Users\mele9\OneDrive\Escritorio\Curso_20-21\Primer_Cuatrimestre\APROG\12-wf\12-wf\iu\iu\obj\x86\Debug\iu.csproj.CoreCompileInputs.cache
+C:\Users\mele9\OneDrive\Escritorio\Curso_20-21\Primer_Cuatrimestre\APROG\12-wf\12-wf\iu\iu\obj\x86\Debug\iu.exe
+C:\Users\mele9\OneDrive\Escritorio\Curso_20-21\Primer_Cuatrimestre\APROG\12-wf\12-wf\iu\iu\obj\x86\Debug\iu.pdb
+C:\Users\artii\Desktop\APROG-master\AProg\iu\iu\obj\x86\Debug\iu.csprojAssemblyReference.cache
+C:\Users\artii\Desktop\APROG-master\AProg\iu\iu\obj\x86\Debug\iu.Calculadora.resources
+C:\Users\artii\Desktop\APROG-master\AProg\iu\iu\obj\x86\Debug\iu.Properties.Resources.resources
+C:\Users\artii\Desktop\APROG-master\AProg\iu\iu\obj\x86\Debug\iu.csproj.GenerateResource.cache
+C:\Users\artii\Desktop\APROG-master\AProg\iu\iu\obj\x86\Debug\iu.csproj.CoreCompileInputs.cache
+C:\Users\artii\Desktop\APROG-master\AProg\iu\iu\obj\x86\Debug\iu.exe
+C:\Users\artii\Desktop\APROG-master\AProg\iu\iu\obj\x86\Debug\iu.pdb
+C:\Users\artii\Desktop\APROG-master\AProg\iu\iu\bin\Debug\iu.exe.config
+C:\Users\artii\Desktop\APROG-master\AProg\iu\iu\bin\Debug\iu.exe
+C:\Users\artii\Desktop\APROG-master\AProg\iu\iu\bin\Debug\iu.pdb
