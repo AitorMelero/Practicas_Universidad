@@ -1,0 +1,106 @@
+SI    ****Error semantico en lin X: Declaracion duplicada.
+SI    ****Error semantico en lin X: Acceso a variable no declarada (<nombre_variable>).
+SI    ****Error semantico en lin X: Operacion aritmetica con operandos boolean.
+SI    ****Error semantico en lin X: Operacion logica con operandos int.
+SI    ****Error semantico en lin X: Comparacion con operandos boolean.
+SI    ****Error semantico en lin X: Condicional con condicion de tipo int.
+SI    ****Error semantico en lin X: Bucle con condicion de tipo int.
+SI    ****Error semantico en lin X: Numero incorrecto de parametros en llamada a funcion.
+SI    ****Error semantico en lin X: Asignacion incompatible.
+SI    ****Error semantico en lin X: El tamanyo del vector <nombre_vector> excede los limites permitidos (1,64).
+SI    ****Error semantico en lin X: Intento de indexacion de una variable que no es de tipo vector.
+SI    ****Error semantico en lin X: El indice en una operacion de indexacion tiene que ser de tipo entero.
+SI    ****Error semantico en lin X: Funcion <nombre_funcion> sin sentencia de retorno.
+SI    ****Error semantico en lin X: Sentencia de retorno fuera del cuerpo de una función.
+SI    ****Error semantico en lin X: No esta permitido el uso de llamadas a funciones como parametros de otras funciones.
+SI    ****Error semantico en lin X: Variable local de tipo no escalar..
+
+/******************************************************************************/
+/* Variables de funciones *****************************************************/
+/******************************************************************************/
+-indiceLocal ----------> pos_variable_local_actual
+-numVariables ----------> num_variables_locales_actual
+-indiceParametro -----------> pos_parametro_actual
+-numParametors -------------> num_parametros_actual
+
+/******************************************************************************/
+/* Variables iniciales creadas al principio:***********************************/
+/******************************************************************************/
+TIPO tipo ----------> tipo_actual;
+CLASE clase ----------> clase_actual;
+int tamVector ----------> tamano_vector_actual;
+
+INFO_SIMBOLO* simbolo_leido ----------> read;
+
+INFO_SIMBOLO simbolo ----------> inserta;
+
+int etiquetas ----------> cuantos_no
+int compara ----------> cuantas_comparaciones
+int condicional ----------> cuantos_condicionales
+int bucles ----------> cuantos_bucles
+int indiceLocal ----------> pos_variable_local_actual
+int numVariables ----------> num_variables_locales_actual
+int numParametros ----------> num_parametros_actual
+int indiceParametro ----------> pos_parametro_actual
+int funcion_true ----------> es_funcion
+int llamada_funcion ----------> es_llamada
+int parametros_aux ----------> params
+int return_true ----------> hay_return
+
+/******************************************************************************/
+/* POR SI SE SOBREESCRIBE ALFA.C **********************************************/
+/******************************************************************************/
+/**
+* File: alfa.c
+* Autores: Miguel Manzano, Aitor Melero
+* Grupo: 1362
+*/
+#include <stdio.h>
+#include <stdlib.h>
+#include "alfa.h"
+
+extern FILE* yyin, *yyout;
+int yylex();
+int yyparse();
+
+/* FUNCION PRINCIPAL */
+int main(int argc, char* argv[]) {
+  int as = 0;
+
+	if (argc != 3){
+		fprintf(stdout, "Error. Debe introducir fichero de entrada y de salida.\n");
+		return 0;
+	}
+
+	yyin = fopen(argv[1],"r");
+    if(!yyin){
+        fprintf(stdout, "Error al abrir el fichero de entrada\n");
+        return 0;
+    }
+
+	yyout = fopen(argv[2],"w");
+    if(!yyout){
+        fprintf(stdout, "Error al abrir el fichero de salida\n");
+        fclose(yyin);
+        return 0;
+    }
+
+    escribir_subseccion_data(yyout);
+    escribir_cabecera_bss(yyout);
+
+    as = yyparse(); /* Analizador sintactico */
+
+		escribir_fin(yyout); /*FIN*/
+
+	if(as!=0){
+        printf("Error durante el análisis\n");
+    }
+    else{
+        printf("Análisis realizado con éxito\n");
+    }
+
+	fclose(yyout);
+	fclose(yyin);
+
+	return 0;
+}
