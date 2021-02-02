@@ -1,0 +1,20 @@
+##################################################################################################
+Para comprobar los ejemplos de la practica hemos creado un makefile personal. Estos son los pasos
+para comprobar todo:
+
+1. $ make
+2. $ make ejemplo_1         //(./ejemplo1 fichero1.asm)
+3. $ make compila_1_asm     //(nasm -g -o ej1.o -f elf32 fichero1.asm
+                               gcc -m32 -o ej1 ej1.o alfalib.o)
+
+4. $ ./ej1
+
+
+Y asi con cada ejemplo.
+
+NOTA: solo usar estos comandos y no mas porque no hemos implementado un makefile muy elaborado
+      ya que no se pedia en la practica y ,por lo tanto, puede haber errores inesperados si se
+      ejecutan otros comandos diferentes a los indicados.
+
+      Seguramente sera mas util usar otro makefile.
+#################################################################################################
