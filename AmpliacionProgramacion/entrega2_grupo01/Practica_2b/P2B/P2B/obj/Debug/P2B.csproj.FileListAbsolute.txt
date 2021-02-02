@@ -1,0 +1,14 @@
+C:\Users\artii\Desktop\P2b\P2B\P2B\bin\Debug\P2B.exe.config
+C:\Users\artii\Desktop\P2b\P2B\P2B\bin\Debug\P2B.exe
+C:\Users\artii\Desktop\P2b\P2B\P2B\bin\Debug\P2B.pdb
+C:\Users\artii\Desktop\P2b\P2B\P2B\obj\Debug\P2B.csproj.CoreCompileInputs.cache
+C:\Users\artii\Desktop\P2b\P2B\P2B\obj\Debug\P2B.exe
+C:\Users\artii\Desktop\P2b\P2B\P2B\obj\Debug\P2B.pdb
+C:\Users\artii\Desktop\P2b\P2B\P2B\obj\Debug\P2B.csprojAssemblyReference.cache
+C:\Users\artii\Desktop\Practica_2b\P2B\P2B\obj\Debug\P2B.csprojAssemblyReference.cache
+C:\Users\artii\Desktop\Practica_2b\P2B\P2B\obj\Debug\P2B.csproj.CoreCompileInputs.cache
+C:\Users\artii\Desktop\Practica_2b\P2B\P2B\obj\Debug\P2B.exe
+C:\Users\artii\Desktop\Practica_2b\P2B\P2B\obj\Debug\P2B.pdb
+C:\Users\artii\Desktop\Practica_2b\P2B\P2B\bin\Debug\P2B.exe.config
+C:\Users\artii\Desktop\Practica_2b\P2B\P2B\bin\Debug\P2B.exe
+C:\Users\artii\Desktop\Practica_2b\P2B\P2B\bin\Debug\P2B.pdb
